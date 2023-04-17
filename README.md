@@ -82,5 +82,5 @@ Now that the ticket has been resolved, it will now be reflected in the "closed" 
 <p align="center">
   <img src="https://i.imgur.com/BtPSpZs.png" height="65%" width="65%" alt="ticket marked as closed"/>
 </p>
-<b><p align="center">Well that's a wrap, now on to the next package</b></p>
-<p align="center"><b><i>"Ask yourself: How uncomfortable are you willing to become in order to reach your fullest potential?"</b></i></p>
+<b><p align="center">Congratulations on completion on this lab, I hope this lab was helpful</b></p>
+<p align="center"><b><i>"The End "</b></i></p>
